@@ -44,20 +44,12 @@ Saya seorang **Web Developer** yang passionate dalam membangun aplikasi web mode
 
 ## 🚀 Project Pilihan
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💰 Kasir Cashless</h3>
-      <p>Sistem pembayaran digital untuk kantin sekolah.</p>
-      <a href="https://github.com/faihamin/kasir-cashlesss">Lihat Repo →</a>
-    </td>
-    <td width="50%">
-      <h3>🌴 Explore Sulawesi</h3>
-      <p>Website pariwisata Pulau Sulawesi.</p>
-      <a href="https://github.com/faihamin/web-explore-sulawesi">Lihat Repo →</a>
-    </td>
-  </tr>
-</table>
+- 💰 [Kasir Cashless](https://github.com/faihamin/kasir-cashlesss) - Sistem pembayaran digital kantin
+- 🎭 [Kuis Seni Tari](https://github.com/faihamin/kuis-seni-sederhana) - Aplikasi kuis interaktif
+- 🚦 [Edukasi Lalu Lintas](https://github.com/faihamin/rambu-lalu-lintas) - Website edukasi
+- 🚀 [Portofolio Shofy](https://github.com/faihamin/portofolio-shofy) - Website portofolio
+- 🏔️ [Web Gunung](https://github.com/faihamin/web-tentang-gunung) - Informasi gunung
+- 🌴 [Explore Sulawesi](https://github.com/faihamin/web-explore-sulawesi) - Pariwisata Sulawesi
 
 ---
 
