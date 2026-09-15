@@ -13,7 +13,7 @@ Saya seorang **Web Developer** yang passionate dalam membangun aplikasi web mode
 - 💻 Fokus di **Web Development** (Laravel, Tailwind CSS, JavaScript)
 - 🎨 Suka **UI/UX Design** dan **Frontend Development**
 - 📚 Terus belajar **teknologi baru**
-- 📍 **Demak, Jawa Tengah, Indonesia**
+- 📍 **Sayung, Demak, Jawa Tengah, Indonesia**
 
 ---
 
@@ -29,15 +29,6 @@ Saya seorang **Web Developer** yang passionate dalam membangun aplikasi web mode
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faihamin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faihamin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
