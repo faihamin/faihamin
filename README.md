@@ -1,8 +1,4 @@
-# 👋 Halo, Saya Shofy Faih Amin
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+![Banner](banner.png)
 
 ---
 
